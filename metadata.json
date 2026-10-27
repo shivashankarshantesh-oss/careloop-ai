@@ -1,0 +1,6 @@
+{
+  "name": "CareLoop AI — Closed-Loop Care Coordination Platform",
+  "description": "Production-style healthcare care coordination platform tracking actionable screening results from receipt to documented clinical closure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
